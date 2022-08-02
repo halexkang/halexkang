@@ -6,7 +6,7 @@ I like to:
 - :open_book: read technical books and share my takeaways also on my [blog]()
 
 
-###:star: Fun fact:
+:star: Fun facts:
 - I speak :us: English & :kr: Korean
 - I love playing :basketball: basketball
 - I like to learn :guitar::musical_keyboard: instruments
