@@ -1,4 +1,4 @@
-### Hi 👋 my name is Alex!
+## Hi 👋 my name is Alex!
 I'm a :fire: passionate software engineer always looking for opportunities to learn.
 
 I like to:
