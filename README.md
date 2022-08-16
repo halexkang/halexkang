@@ -3,8 +3,8 @@ I'm a :fire: passionate software engineer always looking for opportunities to le
 
 I like to:
 - :building_construction: build things from scratch
-- :open_book: read technical books and share my takeaways also on my [blog]()
-
+- :pencil: write about what I am learning at the moment on [dev.to](https://dev.to/alexhanbich)
+- :open_book: read technical books and share my takeaways also on [dev.to](https://dev.to/alexhanbich)
 
 :star: Fun facts:
 - I speak :us: English & :kr: Korean
