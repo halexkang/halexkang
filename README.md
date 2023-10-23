@@ -19,9 +19,23 @@ Feel free to checkout some of my project / posts.
   - [Demo](https://halexkang.github.io/sorting-visualized-vue/)
 
 ### Machine Learning
+- Augmented reality sudoku solver
+    - [github](https://github.com/halexkang/ar-sudoku)
 
 ### Security
-
-### Challenges
+- AES implementation
+  - [github](https://github.com/halexkang/AES)
+- RSA implementation
+  - [github](https://github.com/halexkang/RSA)
+- Hash Attack
+  - [github](https://github.com/halexkang/hash-attack)
 
 ### Algorithms
+- Leetcode Solutions & algorithm templates
+  - [github](https://github.com/halexkang/leetcode)
+
+### Challenges
+- RingZer0 CTF challenges
+  - [github](https://github.com/halexkang/ringzer0)
+- Project Euler
+  - [github](https://github.com/halexkang/proj-euler)
