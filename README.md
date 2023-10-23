@@ -6,7 +6,7 @@ To tell a little about myself, I am currently a Computer Science major at Brigha
 
 I am currently working as a Web Developer at the Center For Teaching And Learning. I am currently working on the instructor version of BYU's "Learning Suite" Learning Management System.
 
-Feel free to checkout some of my project / posts.
+Feel free to checkout some of my projects.
 
 ## Projects
 
