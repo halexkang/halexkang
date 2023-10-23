@@ -23,6 +23,8 @@ Feel free to checkout some of my project / posts.
 ### Machine Learning
 - Augmented reality sudoku solver
 [github](https://github.com/halexkang/ar-sudoku)
+- Style Transfer
+[github](https://github.com/halexkang/style-transfer/blob/main/style-transfer.ipynb)
 
 ### Security
 - AES implementation
