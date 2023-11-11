@@ -11,32 +11,40 @@ Feel free to checkout some of my projects.
 ## Projects
 
 ### Web
-- Ecommerce (MERN)
+- Ecommerce (MongoDB, Express, React, Node)
 [github](https://github.com/halexkang/hangy-shop)
 &nbsp;/&nbsp;
 [Demo](hangy-shop.onrender.com)
-- Sorting algorithms visualized
+- Sorting algorithms visualized (Vue)
 [github](https://github.com/halexkang/sorting-visualized-vue)
 &nbsp;/&nbsp;
 [Demo](https://halexkang.github.io/sorting-visualized-vue/)
+- Todo (Go, HTMX, Postgresql)
+[github](https://github.com/halexkang/go-todo)
 
 ### Machine Learning
-- Augmented reality sudoku solver
+- Augmented reality sudoku solver (python)
 [github](https://github.com/halexkang/ar-sudoku)
-- Style Transfer
+- Image Style Transfer (python)
 [github](https://github.com/halexkang/style-transfer/blob/main/style-transfer.ipynb)
 
 ### Security
-- AES implementation
+- AES implementation (python)
 [github](https://github.com/halexkang/AES)
-- RSA implementation
+- RSA implementation (python)
 [github](https://github.com/halexkang/RSA)
-- Hash Attack
+- Hash Attack (python
 [github](https://github.com/halexkang/hash-attack)
 
 ### Algorithms
 - Leetcode Solutions & algorithm templates
 [github](https://github.com/halexkang/leetcode)
+
+### Games
+- Aim Trainer (Go)
+[github](https://github.com/halexkang/target-blaster)
+- Snake (Python)
+[github](https://github.com/halexkang/snake)
 
 ### Challenges
 - RingZer0 CTF challenges
